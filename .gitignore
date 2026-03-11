@@ -1,0 +1,65 @@
+# ===============================
+# Python
+# ===============================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.py[cod]
+
+# Python virtual environments
+venv/
+.venv/
+env/
+
+# ===============================
+# Environment variables
+# ===============================
+.env
+
+# ===============================
+# Databases
+# ===============================
+*.db
+*.sqlite
+*.sqlite3
+
+# ===============================
+# Logs
+# ===============================
+logs/
+*.log
+rag_logs.jsonl
+
+# ===============================
+# OS / System files
+# ===============================
+.DS_Store
+Thumbs.db
+
+# ===============================
+# VS Code / IDE
+# ===============================
+.vscode/
+.idea/
+
+# ===============================
+# Docker
+# ===============================
+docker-compose.override.yml
+
+# ===============================
+# Data / datasets
+# ===============================
+datasets/
+*.csv
+src/data/*.json
+
+# ===============================
+# Misc & Junk
+# ===============================
+*.bak
+*.tmp
+youtube_cookies.txt
+src/automation/-- SQLite.sql
+src/automation/Untitled-3.html

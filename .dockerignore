@@ -1,0 +1,12 @@
+.venv
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.sqlite
+*.db
+rag_logs.json
+datasets/
+*.csv
+.env
